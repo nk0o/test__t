@@ -33093,6 +33093,7 @@ a.cs {
 }
 .main_cont_type .mySwiper2 .swiper-slide.walk .htit > span {
   font-size: 14px;
+  font-weight: 600;
 }
 .main_cont_type .mySwiper2 .swiper-slide.walk .ic_lev {
   -webkit-box-flex: 0;
@@ -33218,6 +33219,17 @@ a.cs {
   font-weight: 700;
   color: #222;
   font-family: "Roboto";
+}
+.main_cont_type .mySwiper2 .swiper-slide .walk_cont .walk_today {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+      align-items: center;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+      justify-content: space-between;
 }
 .main_cont_type .swiper-pagination-bullet {
   width: 6px;
